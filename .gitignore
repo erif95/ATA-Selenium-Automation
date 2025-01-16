@@ -36,3 +36,13 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+#other
+.env
+.settings/
+*.jar
+allure-*
+/.github
+/.gradle
+/.idea
+/target
